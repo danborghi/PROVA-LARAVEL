@@ -13,3 +13,9 @@ Cada tarefa contém as seguintes informações:
    - Status
 
 A seguir estão os vídeos de demonstrações:
+
+https://youtu.be/V6LYsLwEGYA
+Video com explicação
+
+
+
